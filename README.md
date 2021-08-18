@@ -11,13 +11,13 @@ This bash program automates the creation of a very basic Makefile
 
 1. Load the bash function in the current terminal session as follows:
      
-`$> source makeit.sh`
+```$> source makeit.sh```
 
 2. If you wish to add a program (e.g. "prog.cc") in the Makefile use `-a` or `-add` flag as follows:
 
-`$> makeit -a prog`
+```$> makeit -a prog```
 
 3. If you wish to add the clean option in the Makefile use `-c` flag:
 
-`$> makeit -c`
+```$> makeit -c```
 
