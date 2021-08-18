@@ -3,9 +3,12 @@
 This bash program automates the creation of a very basic Makefile 
  to compile C++ programs. Two main options are available:
      1. Add a c++ program into the Makefile for gcc compilation.
+
         `O2 optimization, c++17 version, Wall flag`
+
      2. Add a "make clean" option in the Makefile
-        to remove the `.exe` files
+       
+			 to remove the `.exe` files
 
 # USAGE
 
