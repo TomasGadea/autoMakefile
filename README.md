@@ -21,5 +21,5 @@ This bash program automates the creation of a very basic Makefile
 
 3. If you wish to add the clean option in the Makefile use `-c` flag:
 
-* ```$> makeit -c```
+* ```makeit -c```
 
